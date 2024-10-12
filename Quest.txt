@@ -9,3 +9,11 @@ AdvancedAvatarControl
 ExpressionControl
 GunTweaker
 ModioModNetworker
+LabCam
+AvatarStatExtender
+AdvancedAvatarControl
+TideFusion
+ReloadGunsFlatscreen
+FlatPlayerCheck
+AvatarStatExtender
+LabCam

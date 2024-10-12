@@ -2,3 +2,6 @@ Freecam
 BreakableBones
 BodyLog_Customizer
 BoneLib_Patch_5_Unofficial
+TideFusion
+AvatarStatExtender
+LabCam
