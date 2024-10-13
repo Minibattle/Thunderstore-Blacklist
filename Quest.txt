@@ -17,3 +17,12 @@ ReloadGunsFlatscreen
 FlatPlayerCheck
 AvatarStatExtender
 LabCam
+GoodOlDays
+FusionServerOnStartup
+GangBeastsGamemode
+EchoVRGamemode
+NameThingy
+JetpackJoyrideBL
+FogToggler
+QuestLODEnforcer
+AiLife

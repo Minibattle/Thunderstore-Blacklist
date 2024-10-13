@@ -5,3 +5,12 @@ BoneLib_Patch_5_Unofficial
 TideFusion
 AvatarStatExtender
 LabCam
+GoodOlDays
+FusionServerOnStartup
+GangBeastsGamemode
+EchoVRGamemode
+NameThingy
+JetpackJoyrideBL
+FogToggler
+QuestLODEnforcer
+AiLife
