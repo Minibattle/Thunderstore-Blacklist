@@ -12,5 +12,13 @@ EchoVRGamemode
 NameThingy
 JetpackJoyrideBL
 FogToggler
-QuestLODEnforcer
 AiLife
+BootstrapOverride
+FusionRanks
+ZeralsTools
+Infected_Gamemode
+LastOneStanding_Gamemode
+SpiderlabFusionSync
+TroubleInBonetown
+SceneSaverBL
+InfiniteHolster

@@ -26,3 +26,15 @@ JetpackJoyrideBL
 FogToggler
 QuestLODEnforcer
 AiLife
+InvisConstraint
+SwipezGamemodeLib
+BootstrapOverride
+Desktop_MP
+FusionRanks
+ZeralsTools
+Infected_Gamemode
+LastOneStanding_Gamemode
+SpiderlabFusionSync
+TroubleInBonetown
+SceneSaverBL
+InfiniteHolster
