@@ -1,6 +1,6 @@
-## Blacklisted Mods
+# Blacklisted Mods
 
-# PC
+## PC
 - Freecam (instant game crash)
 - BreakableBones (instant game crash)
 - BodyLog_Customizer (instant game crash)
@@ -18,7 +18,7 @@
 - QuestLODEnforcer (instant game crash)
 - AiLife (instant game crash)
 
-# Quest
+## Quest
 - Fusion (instant game crash)
 - BoneLib_Patch_5_Unofficial (outdated)
 - BodyLog_Customizer (instant game crash)
