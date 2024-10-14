@@ -26,6 +26,8 @@
 - SceneSaverBL (instant game crash)
 - InfiniteHolster (outdated)
 - VoidMenuEnabler (outdated)
+- NoMoreGaySex (breaks openxr loader)
+- SpiderLab (instant game crash) [Thanks skibidi-o1n]
 
 ## Quest
 - Fusion (instant game crash)
@@ -68,3 +70,5 @@
 - LastOneStanding_Gamemode (outdated)
 - TroubleInBonetown (outdated)
 - VoidMenuEnabler (outdated)
+- NoMoreGaySex (breaks openxr loader on pc so it's likely broken here)
+- SpiderLab (instant game crash) [Thanks skibidi-o1n]
