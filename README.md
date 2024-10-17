@@ -40,7 +40,7 @@
 - AdvancedAvatarControl (instant game crash)
 - ExpressionControl (instant game crash)
 - GunTweaker (game crash after grabbing a gun)
-- ModioModNetworker (instant game crash)
+- ModioModNetworker (dependency currently crashes the game - will unblacklist when fusion drops officially)
 - LabCam (instant game crash)
 - AvatarStatExtender (instant game crash)
 - AdvancedAvatarControl (instant game crash)
