@@ -25,6 +25,8 @@
 - SceneSaverBL (instant game crash)
 - InfiniteHolster (outdated)
 - VoidMenuEnabler (outdated)
+- NoMoreGaySex (breaks openxr loader)
+- SpiderLab (instant game crash) [Thanks skibidi-o1n]
 
 ## Quest
 - Fusion (instant game crash)
@@ -37,7 +39,7 @@
 - AdvancedAvatarControl (instant game crash)
 - ExpressionControl (instant game crash)
 - GunTweaker (game crash after grabbing a gun)
-- ModioModNetworker (instant game crash)
+- ModioModNetworker (dependency currently crashes the game - will unblacklist when fusion drops officially)
 - LabCam (instant game crash)
 - AvatarStatExtender (instant game crash)
 - AdvancedAvatarControl (instant game crash)
@@ -66,3 +68,5 @@
 - LastOneStanding_Gamemode (outdated)
 - TroubleInBonetown (outdated)
 - VoidMenuEnabler (outdated)
+- NoMoreGaySex (breaks openxr loader on pc so it's likely broken here)
+- SpiderLab (instant game crash) [Thanks skibidi-o1n]
