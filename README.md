@@ -106,3 +106,6 @@
 - Doritos_Bag (sdk mod)
 - gm_bigcity (sdk mod)
 - 100_save_file (non code mod)
+- ModReloader (instant game crash)
+- RageQuit (instant game crash)
+- RageMenu (instant game crash)

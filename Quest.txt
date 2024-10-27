@@ -57,3 +57,6 @@ Gordon_Freeman
 Doritos_Bag
 gm_bigcity
 100_save_file
+ModReloader
+RageQuit
+RageMenu
