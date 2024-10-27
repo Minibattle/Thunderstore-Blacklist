@@ -23,7 +23,6 @@ GangBeastsGamemode
 EchoVRGamemode
 NameThingy
 JetpackJoyrideBL
-FogToggler
 QuestLODEnforcer
 AiLife
 InvisConstraint
