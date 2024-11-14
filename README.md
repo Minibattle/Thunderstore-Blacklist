@@ -45,6 +45,7 @@
 - Doritos_Bag (sdk mod)
 - gm_bigcity (sdk mod)
 - 100_save_file (non code mod)
+- GaleModManager (doesn't download through assistant)
 
 ## Quest
 - Fusion (instant game crash)
@@ -109,3 +110,4 @@
 - ModReloader (instant game crash)
 - RageQuit (instant game crash)
 - RageMenu (instant game crash)
+- GaleModManager (unsupported platform)
