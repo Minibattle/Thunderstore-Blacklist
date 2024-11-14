@@ -60,3 +60,4 @@ gm_bigcity
 ModReloader
 RageQuit
 RageMenu
+GaleModManager

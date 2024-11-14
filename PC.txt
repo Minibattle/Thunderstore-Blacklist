@@ -41,3 +41,4 @@ Gordon_Freeman
 Doritos_Bag
 gm_bigcity
 100_save_file
+GaleModManager
