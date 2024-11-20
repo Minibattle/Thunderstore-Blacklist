@@ -61,4 +61,3 @@ ModReloader
 RageQuit
 RageMenu
 GaleModManager
-FingerDown
