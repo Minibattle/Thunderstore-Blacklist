@@ -111,3 +111,4 @@
 - RageQuit (instant game crash)
 - RageMenu (instant game crash)
 - GaleModManager (unsupported platform)
+- FlatPlayerPlus (unsupported platform)
