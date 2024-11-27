@@ -48,7 +48,6 @@
 - GaleModManager (doesn't download through assistant)
 
 ## Quest
-- Fusion (instant game crash)
 - BoneLib_Patch_5_Unofficial (outdated)
 - BodyLog_Customizer (instant game crash)
 - FlatExtras (no use on platform)
