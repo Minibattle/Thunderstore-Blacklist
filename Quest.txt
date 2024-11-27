@@ -1,3 +1,4 @@
+ModioModNetworker
 BoneLib_Patch_5_Unofficial
 BodyLog_Customizer
 FlatExtras
@@ -7,7 +8,6 @@ FlatPlayer
 AdvancedAvatarControl
 ExpressionControl
 GunTweaker
-ModioModNetworker
 LabCam
 AvatarStatExtender
 AdvancedAvatarControl

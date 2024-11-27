@@ -48,6 +48,7 @@
 - GaleModManager (doesn't download through assistant)
 
 ## Quest
+- ModioModNetworker (Currently crashes the game - will unblacklist when fixed)
 - BoneLib_Patch_5_Unofficial (outdated)
 - BodyLog_Customizer (instant game crash)
 - FlatExtras (no use on platform)
@@ -57,7 +58,6 @@
 - AdvancedAvatarControl (instant game crash)
 - ExpressionControl (instant game crash)
 - GunTweaker (game crash after grabbing a gun)
-- ModioModNetworker (dependency currently crashes the game - will unblacklist when fusion drops officially)
 - LabCam (instant game crash)
 - AvatarStatExtender (instant game crash)
 - AdvancedAvatarControl (instant game crash)
