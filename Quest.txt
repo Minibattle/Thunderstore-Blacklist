@@ -6,7 +6,6 @@ BreakableBones
 Freecam
 FlatPlayer
 AdvancedAvatarControl
-ExpressionControl
 GunTweaker
 LabCam
 AvatarStatExtender
