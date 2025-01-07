@@ -56,7 +56,6 @@
 - Freecam (instant game crash)
 - FlatPlayer (no use on platform)
 - AdvancedAvatarControl (instant game crash)
-- GunTweaker (game crash after grabbing a gun)
 - LabCam (instant game crash)
 - AvatarStatExtender (instant game crash)
 - AdvancedAvatarControl (instant game crash)
