@@ -1,4 +1,3 @@
-ModioModNetworker
 BoneLib_Patch_5_Unofficial
 BodyLog_Customizer
 FlatExtras
