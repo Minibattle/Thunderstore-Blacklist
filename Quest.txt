@@ -58,3 +58,4 @@ RageQuit
 RageMenu
 GaleModManager
 FlatPlayerPlus
+NoBonelab
