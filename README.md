@@ -46,6 +46,7 @@
 - gm_bigcity (sdk mod)
 - 100_save_file (non code mod)
 - GaleModManager (doesn't download through assistant)
+- NoBonelab (Crashes the game)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -108,3 +109,4 @@
 - RageMenu (instant game crash)
 - GaleModManager (unsupported platform)
 - FlatPlayerPlus (unsupported platform)
+- NoBonelab (Crashes the game)
