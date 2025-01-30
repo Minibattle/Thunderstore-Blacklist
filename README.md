@@ -47,6 +47,7 @@
 - 100_save_file (non code mod)
 - GaleModManager (doesn't download through assistant)
 - NoBonelab (Crashes the game)
+- MelonLoaderModTemplate (No use in game)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -110,3 +111,4 @@
 - GaleModManager (unsupported platform)
 - FlatPlayerPlus (unsupported platform)
 - NoBonelab (Crashes the game)
+- MelonLoaderModTemplate (No use in game)
