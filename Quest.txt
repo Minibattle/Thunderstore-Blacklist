@@ -59,3 +59,4 @@ RageMenu
 GaleModManager
 FlatPlayerPlus
 NoBonelab
+MelonLoaderModTemplate

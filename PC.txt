@@ -43,3 +43,4 @@ gm_bigcity
 100_save_file
 GaleModManager
 NoBonelab
+MelonLoaderModTemplate
