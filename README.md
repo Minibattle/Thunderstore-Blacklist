@@ -112,3 +112,4 @@
 - FlatPlayerPlus (unsupported platform)
 - NoBonelab (Crashes the game)
 - MelonLoaderModTemplate (No use in game)
+- NeighborLab (Dependency currently unavailable on Quest)
