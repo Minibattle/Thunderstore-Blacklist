@@ -60,4 +60,3 @@ GaleModManager
 FlatPlayerPlus
 NoBonelab
 MelonLoaderModTemplate
-NeighborLab
