@@ -48,6 +48,7 @@
 - GaleModManager (doesn't download through assistant)
 - NoBonelab (Crashes the game)
 - MelonLoaderModTemplate (No use in game)
+- JeviLib (Causes various MelonLoader initialization issues)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -112,3 +113,4 @@
 - FlatPlayerPlus (unsupported platform)
 - NoBonelab (Crashes the game)
 - MelonLoaderModTemplate (No use in game)
+- JeviLib (Causes various MelonLoader initialization issues)
