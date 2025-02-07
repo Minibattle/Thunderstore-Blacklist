@@ -4,7 +4,6 @@ BodyLog_Customizer
 BoneLib_Patch_5_Unofficial
 TideFusion
 AvatarStatExtender
-LabCam
 GoodOlDays
 FusionServerOnStartup
 GangBeastsGamemode

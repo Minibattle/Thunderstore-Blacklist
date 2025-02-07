@@ -5,7 +5,6 @@ BreakableBones
 Freecam
 FlatPlayer
 AdvancedAvatarControl
-LabCam
 AvatarStatExtender
 AdvancedAvatarControl
 TideFusion
