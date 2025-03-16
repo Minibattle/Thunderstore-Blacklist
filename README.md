@@ -109,5 +109,6 @@
 - GaleModManager (unsupported platform)
 - FlatPlayerPlus (unsupported platform)
 - NoBonelab (Crashes the game)
+- GunTweaker (Breaks game when using guns)
 - MelonLoaderModTemplate (No use in game)
 - JeviLib (Causes various MelonLoader initialization issues)
