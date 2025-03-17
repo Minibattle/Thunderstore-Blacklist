@@ -112,3 +112,4 @@
 - GunTweaker (Breaks game when using guns)
 - MelonLoaderModTemplate (No use in game)
 - JeviLib (Causes various MelonLoader initialization issues)
+- MusicAttenuation (No use on platform)
