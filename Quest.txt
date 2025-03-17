@@ -61,3 +61,4 @@ NoBonelab
 MelonLoaderModTemplate
 JeviLibBL
 GunTweaker
+MusicAttenuation
