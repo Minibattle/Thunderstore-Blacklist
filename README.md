@@ -1,6 +1,7 @@
 # Blacklisted Mods
 
 ## PC
+- ModioModNetworker (Currently Breaks Fusion)
 - Freecam (instant game crash)
 - BreakableBones (instant game crash)
 - BodyLog_Customizer (instant game crash)
@@ -50,6 +51,7 @@
 - JeviLib (Causes various MelonLoader initialization issues)
 
 ## Quest
+- ModioModNetworker (Currently breaks fusion)
 - BoneLib_Patch_5_Unofficial (outdated)
 - BodyLog_Customizer (instant game crash)
 - FlatExtras (no use on platform)
