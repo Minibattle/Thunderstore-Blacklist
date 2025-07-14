@@ -21,7 +21,6 @@
 - Infected_Gamemode (outdated)
 - SpiderlabFusionSync (outdated)
 - TroubleInBonetown (outdated)
-- SceneSaverBL (instant game crash)
 - InfiniteHolster (outdated)
 - VoidMenuEnabler (outdated)
 - NoMoreGaySex (breaks openxr loader)
@@ -47,7 +46,7 @@
 - GaleModManager (doesn't download through assistant)
 - NoBonelab (Crashes the game)
 - MelonLoaderModTemplate (No use in game)
-- JeviLib (Causes various MelonLoader initialization issues)
+- MonoDirector (outdated)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -113,3 +112,4 @@
 - MelonLoaderModTemplate (No use in game)
 - JeviLib (Causes various MelonLoader initialization issues)
 - MusicAttenuation (No use on platform)
+- MonoDirector (outdated)
