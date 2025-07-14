@@ -18,7 +18,6 @@ Infected_Gamemode
 LastOneStanding_Gamemode
 SpiderlabFusionSync
 TroubleInBonetown
-SceneSaverBL
 InfiniteHolster
 NoMoreGaySex
 SpiderLab
@@ -43,4 +42,4 @@ gm_bigcity
 GaleModManager
 NoBonelab
 MelonLoaderModTemplate
-JeviLibBL
+MonoDirector
