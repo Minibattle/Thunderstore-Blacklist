@@ -47,6 +47,7 @@
 - NoBonelab (Crashes the game)
 - MelonLoaderModTemplate (No use in game)
 - MonoDirector (outdated)
+- RagdollFix (outdated)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -113,3 +114,4 @@
 - JeviLib (Causes various MelonLoader initialization issues)
 - MusicAttenuation (No use on platform)
 - MonoDirector (outdated)
+- RagdollFix (outdated)
