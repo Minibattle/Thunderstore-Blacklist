@@ -43,3 +43,4 @@ GaleModManager
 NoBonelab
 MelonLoaderModTemplate
 MonoDirector
+RagdollFix
