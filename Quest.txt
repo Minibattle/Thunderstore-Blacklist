@@ -64,3 +64,5 @@ GunTweaker
 MusicAttenuation
 MonoDirector
 RagdollFix
+SpidermanMod
+SpiderQuestPROTOTYPE
