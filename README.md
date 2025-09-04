@@ -48,6 +48,8 @@
 - MelonLoaderModTemplate (No use in game)
 - MonoDirector (outdated)
 - RagdollFix (outdated)
+- SpidermanMod (outdated)
+- SpiderQuestPROTOTYPE (outdated)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -115,3 +117,5 @@
 - MusicAttenuation (No use on platform)
 - MonoDirector (outdated)
 - RagdollFix (outdated)
+- SpidermanMod (outdated)
+- SpiderQuestPROTOTYPE (outdated)
