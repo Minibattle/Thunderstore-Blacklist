@@ -44,3 +44,5 @@ NoBonelab
 MelonLoaderModTemplate
 MonoDirector
 RagdollFix
+SpidermanMod
+SpiderQuestPROTOTYPE
