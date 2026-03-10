@@ -66,3 +66,4 @@ MonoDirector
 RagdollFix
 SpidermanMod
 SpiderQuestPROTOTYPE
+FusionNetworkingPlus
