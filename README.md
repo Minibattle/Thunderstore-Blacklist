@@ -50,6 +50,7 @@
 - RagdollFix (outdated)
 - SpidermanMod (outdated)
 - SpiderQuestPROTOTYPE (outdated)
+- FusionNetworkingPlus (broken)
 
 ## Quest
 - BoneLib_Patch_5_Unofficial (outdated)
@@ -119,3 +120,4 @@
 - RagdollFix (outdated)
 - SpidermanMod (outdated)
 - SpiderQuestPROTOTYPE (outdated)
+- FusionNetworkingPlus (broken)
