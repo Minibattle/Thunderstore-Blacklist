@@ -42,7 +42,6 @@ gm_bigcity
 GaleModManager
 NoBonelab
 MelonLoaderModTemplate
-MonoDirector
 RagdollFix
 SpidermanMod
 SpiderQuestPROTOTYPE
