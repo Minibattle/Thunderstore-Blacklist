@@ -62,7 +62,6 @@ MelonLoaderModTemplate
 JeviLibBL
 GunTweaker
 MusicAttenuation
-MonoDirector
 RagdollFix
 SpidermanMod
 SpiderQuestPROTOTYPE
